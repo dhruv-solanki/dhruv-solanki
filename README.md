@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dhruv Solanki
+
 ---
 
 <!--
@@ -17,12 +18,21 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif">
+
 ---
 
+### Somethings About Me
+
 Hello There, I am Software Developer.<br> 
-I love to learn about new technologies and concepts.<br> 
+I love to learn new technologies and concepts.<br> 
 I read and write about things that fascinates me. <br>
 Building projects in Web Development and Mobile Application Development. <br>
 Finding new opporunities around the world. <br>
 Always excited to read the stories of other people. <br>
 Part time Fiction Writer. <br>
+
+---
+
+### Technologies 
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="50px">
