@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 ### Somethings About Me
 
-> Hello There, I am Software Developer.<br> 
-> I love to learn new technologies and concepts.<br> 
-> I read and write about things that fascinates me. <br>
-> Building projects in Web Development and Mobile Application Development. <br>
-> Finding new opporunities around the world. <br>
-> Always excited to read the stories of other people. <br>
-> Part time Fiction Writer. <br>
+* Hello There, I am Software Developer.<br> 
+* I love to learn new technologies and concepts.<br> 
+* I read and write about things that fascinates me. <br>
+* Building projects in Web Development and Mobile Application Development. <br>
+* Finding new opporunities around the world. <br>
+* Always excited to read the stories of other people. <br>
+* Part time Fiction Writer. <br>
 
 ---
 
