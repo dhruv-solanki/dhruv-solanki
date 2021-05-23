@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 * Finding new opporunities around the world. <br>
 * Always excited to read the stories of other people. <br>
 * Part time Fiction Writer. <br>
+* Author of the Short Fiction Book - [The Meeting](https://www.amazon.in/Meeting-Dhruv-Solanki-ebook/dp/B08KXXQT7H/)
 
 #### Contact Me
-[dhruvsolanki34@gmail.com](dhruvsolanki34@gmail.com)
+* Instagram Profile - [Instagram](https://www.instagram.com/dhruvsolanki.v)
+* LinkedIn Profile - [LinkedIn](https://in.linkedin.com/in/dhruv-solanki-553713140)
 
 ---
 
