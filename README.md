@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Technologies 
+### Tools
 
 | HTML | CSS | Bootstrap | JavaScript | TypeScript | Python |
 | - | - | - | - | - | - |
@@ -45,7 +45,12 @@ Here are some ideas to get you started:
 
 | PostgreSQL | Flutter | Git | npm | VS Code | Android |
 | - | - | - | - | - | - |
-| <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50px"> |
+| <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50px"> | 
 
-                                                                           
-                                                                           
+---
+
+### My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<dhruv-solanki>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=<dhruv-solanki>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
