@@ -43,13 +43,9 @@ Here are some ideas to get you started:
 | - | - | - | - | - | - |
 | <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50px"> | 
 
-
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50px">
+| PostgreSQL | Flutter | Git | npm | VS Code | Android |
+| - | - | - | - | - | - |
+| <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50px"> |
 
                                                                            
                                                                            
