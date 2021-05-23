@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 
 ### Technologies 
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="50px"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50px">
+| HTML | CSS | Bootstrap | JavaScript | TypeScript | Python |
+| - | - | - | - | - | - |
+| <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="50px"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50px"> | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50px"> |
+
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50px">
 <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" width="50px">
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="50px">
@@ -52,6 +51,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px">
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px">
 <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" width="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50px">
+
                                                                            
                                                                            
