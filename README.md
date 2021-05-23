@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 * Always excited to read the stories of other people. <br>
 * Part time Fiction Writer. <br>
 
+#### Contact Me
+[dhruvsolanki34@gmail.com](dhruvsolanki34@gmail.com)
+
 ---
 
 ### Tools
