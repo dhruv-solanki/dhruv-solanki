@@ -1,4 +1,4 @@
-### My GitHub Stats
+### Hello There, 👋
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-solanki&show_icons=true&theme=radical) 
 
@@ -8,3 +8,4 @@
 
 <br>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv_solanki?theme=light)
