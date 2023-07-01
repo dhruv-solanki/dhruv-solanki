@@ -8,4 +8,4 @@
 
 <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv_solanki?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv_solanki?theme=dark)
