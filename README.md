@@ -7,6 +7,3 @@ I am Dhruv Solanki currently working as a Software Engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-solanki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-[//] # (![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv_solanki?theme=dark))
