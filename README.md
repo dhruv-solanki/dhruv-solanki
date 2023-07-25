@@ -9,4 +9,4 @@ I am Dhruv Solanki currently working as a Software Engineer.
 
 <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv_solanki?theme=dark)
+[//] # (![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv_solanki?theme=dark))
