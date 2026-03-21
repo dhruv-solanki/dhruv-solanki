@@ -1,5 +1,5 @@
 ### Hello There,
-I am Dhruv Solanki currently working as a Software Engineer.
+I am a Sr. Software Engineer.
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-solanki&show_icons=true&theme=radical) 
 
