@@ -1,5 +1,5 @@
 ### Hello There,
-I am a Sr. Software Engineer.
+I am a software engineer, focused into backend engineering, databases, and system architecture. 
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-solanki&show_icons=true&theme=radical) 
 
